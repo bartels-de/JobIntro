@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobIntro.API", "JobIntro.API\JobIntro.API.csproj", "{C45B4980-4168-4CC1-84E5-EE95645AB9C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobIntro.Core", "JobIntro.Core\JobIntro.Core.csproj", "{41B65BA9-1BEF-443F-AF12-C08341D2C1BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C45B4980-4168-4CC1-84E5-EE95645AB9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C45B4980-4168-4CC1-84E5-EE95645AB9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C45B4980-4168-4CC1-84E5-EE95645AB9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B65BA9-1BEF-443F-AF12-C08341D2C1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B65BA9-1BEF-443F-AF12-C08341D2C1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B65BA9-1BEF-443F-AF12-C08341D2C1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B65BA9-1BEF-443F-AF12-C08341D2C1BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
